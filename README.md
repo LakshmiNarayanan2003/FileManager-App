@@ -1,6 +1,6 @@
 # File-Manager
 
-   A normal file manager app done using Flutter with Rich UI that allows the user to edit, view, copy, delete and create files on your Android Device.
+   A normal file manager app done using Flutter with Rich UI that allows the user to edit, view, copy, delete and create files on your Android/iOS Device.
    File Manager helps the user view and manage their files, it’s the operating system that’s responsible for accessing and storing the files.
    It allows users to search for the required files seamlessly.
 ## ✨ Features
