@@ -16,6 +16,6 @@
 - [x] Fingerprint unlock for secured files.
 
 ## ✨ Screenshots:
- 
+   |<img src="screenshots/home_light.jpg" width="400">|<img src="screenshots/home_dark.jpg" width="400">|
 ## Search feature might be slow
 ## Minor bugs are spotted
