@@ -16,9 +16,9 @@
 - [x] Fingerprint unlock for secured files.
 
 ## ✨ Screenshots:
-   |<img src="screenshots/splash_light.jpg" width="400">|<img src="screenshots/Splash_dark.jpg" width="400">|
-   |<img src="screenshots/home_light.jpg" width="400">|<img src="screenshots/home_dark.jpg" width="400">|
-   |<img src="screenshots/settings_light.jpg" width="400">|<img src="screenshots/settings_dark.jpg" width="400">|
+   <img src="screenshots/splash_light.jpg" width="400"> <img src="screenshots/Splash_dark.jpg" width="400">
+   <img src="screenshots/home_light.jpg" width="400"> <img src="screenshots/home_dark.jpg" width="400">|
+   <img src="screenshots/settings_light.jpg" width="400">   <img src="screenshots/settings_dark.jpg" width="400">
 
 
 
